@@ -1,0 +1,7 @@
+LABORATÓRIO 4
+
+-- Questão 1:
+O resultado obtido é o mesmo a menos que o valor do parâmetro do srand seja mudado. Isto é, o valor da semente inicial que é responsável por gerar valores pseudoaleatórios.
+
+-- Questão 2:
+
